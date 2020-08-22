@@ -27,4 +27,13 @@ Expected Output:
 
 5
 
+Input:
+
+for i in range(5, 35 , 15):
+    print(i)
+
+Expected Output:
+
+5
+20
 ```
